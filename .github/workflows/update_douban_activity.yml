@@ -1,18 +1,18 @@
 name: Latest douban activities workflow
-# on:
-#   schedule:
-#     # Runs every 2 hour
-#     - cron: "0,15 * * * *"
 on:
-  release:
-    types: published
-  push:
-    branches:
-      - master
-#  schedule:
-#    - cron: 0 8 * * 5
-  watch:
-    types: started
+  schedule:
+    # Runs every 2 hour
+    - cron: "0 */2 * * *"
+# on:
+#   release:
+#     types: published
+#   push:
+#     branches:
+#       - master
+# #  schedule:
+# #    - cron: 0 8 * * 5
+#   watch:
+#     types: started
 
 jobs:
   update-readme-with-douban-activities:
