@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 #### @ 豆瓣
 <!-- DOUBAN-ACTIVITIES:START -->
+- [在读 把自己作为方法](https://www.douban.com/doubanapp/dispatch?uri=/status/3079493673/)
 - [看过 小丑 Joker‎ (2019)](https://www.douban.com/doubanapp/dispatch?uri=/status/3079459965/)
 - [在玩 对马岛之鬼 Ghost of Tsushima](https://www.douban.com/doubanapp/dispatch?uri=/status/3079453080/)
 - [加入 机智的医生生活](https://www.douban.com/doubanapp/dispatch?uri=/status/3025863333/)
@@ -26,5 +27,4 @@ Here are some ideas to get you started:
 - [想看 1917‎ (2019)](https://www.douban.com/doubanapp/dispatch?uri=/status/2760663691/)
 - [想读 经济学与法律的对话](https://www.douban.com/doubanapp/dispatch?uri=/status/2749519618/)
 - [想看 小丑 Joker‎ (2019)](https://www.douban.com/doubanapp/dispatch?uri=/status/2692992790/)
-- [想看 秒速5厘米 秒速5センチメートル‎ (2007)](https://www.douban.com/doubanapp/dispatch?uri=/status/2683125561/)
 <!-- DOUBAN-ACTIVITIES:END -->
