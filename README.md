@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 #### @ 豆瓣
 <!-- DOUBAN-ACTIVITIES:START -->
+- [在看 灵笼‎ (2019)](https://www.douban.com/doubanapp/dispatch?uri=/status/3091780391/)
 - [在玩 糖豆人: 终极淘汰赛 Fall Guys: Ultimate Knockout](https://www.douban.com/doubanapp/dispatch?uri=/status/3091778727/)
 - [在读 把自己作为方法](https://www.douban.com/doubanapp/dispatch?uri=/status/3079493673/)
 - [看过 小丑 Joker‎ (2019)](https://www.douban.com/doubanapp/dispatch?uri=/status/3079459965/)
@@ -26,5 +27,4 @@ Here are some ideas to get you started:
 - [关注 作为一个产品汪读的书](https://www.douban.com/doubanapp/dispatch?uri=/status/2768286362/)
 - [想读 传播网络理论](https://www.douban.com/doubanapp/dispatch?uri=/status/2760665014/)
 - [想看 1917‎ (2019)](https://www.douban.com/doubanapp/dispatch?uri=/status/2760663691/)
-- [想读 经济学与法律的对话](https://www.douban.com/doubanapp/dispatch?uri=/status/2749519618/)
 <!-- DOUBAN-ACTIVITIES:END -->
