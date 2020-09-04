@@ -2,7 +2,7 @@ name: Latest douban activities workflow
 on:
   schedule:
     # Runs every 2 hour
-    - cron: "*/2 * * * *"
+    - cron: "0 10 * * *"
 #   push:
 #     branches: [ master ]
 #   pull_request:
