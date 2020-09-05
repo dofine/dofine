@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 #### @ 豆瓣
 <!-- DOUBAN-ACTIVITIES:START -->
+- [收藏 信条全剧透解析](https://www.douban.com/doubanapp/dispatch?uri=/status/3095501291/)
+- [看过 信条 Tenet‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3095492779/)
 - [想玩 空洞骑士：丝之歌 Hollow Knight: Silksong](https://www.douban.com/doubanapp/dispatch?uri=/status/3094250573/)
 - [玩过 空洞骑士 Hollow Knight](https://www.douban.com/doubanapp/dispatch?uri=/status/3094250518/)
 - [玩过 死亡细胞 Dead Cells](https://www.douban.com/doubanapp/dispatch?uri=/status/3094250231/)
@@ -25,6 +27,4 @@ Here are some ideas to get you started:
 - [想看 信条 Tenet‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3094122395/)
 - [在看 灵笼‎ (2019)](https://www.douban.com/doubanapp/dispatch?uri=/status/3091780391/)
 - [在玩 糖豆人: 终极淘汰赛 Fall Guys: Ultimate Knockout](https://www.douban.com/doubanapp/dispatch?uri=/status/3091778727/)
-- [在读 把自己作为方法](https://www.douban.com/doubanapp/dispatch?uri=/status/3079493673/)
-- [看过 小丑 Joker‎ (2019)](https://www.douban.com/doubanapp/dispatch?uri=/status/3079459965/)
 <!-- DOUBAN-ACTIVITIES:END -->
