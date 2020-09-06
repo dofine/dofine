@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 #### @ 豆瓣
 <!-- DOUBAN-ACTIVITIES:START -->
+- [想看 剑指高分 High Score‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3096537527/)
 - [收藏 信条全剧透解析](https://www.douban.com/doubanapp/dispatch?uri=/status/3095501291/)
 - [看过 信条 Tenet‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3095492779/)
 - [想玩 空洞骑士：丝之歌 Hollow Knight: Silksong](https://www.douban.com/doubanapp/dispatch?uri=/status/3094250573/)
@@ -26,5 +27,4 @@ Here are some ideas to get you started:
 - [在玩 世界游戏大全51 世界のアソビ大全51](https://www.douban.com/doubanapp/dispatch?uri=/status/3094249476/)
 - [想看 信条 Tenet‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3094122395/)
 - [在看 灵笼‎ (2019)](https://www.douban.com/doubanapp/dispatch?uri=/status/3091780391/)
-- [在玩 糖豆人: 终极淘汰赛 Fall Guys: Ultimate Knockout](https://www.douban.com/doubanapp/dispatch?uri=/status/3091778727/)
 <!-- DOUBAN-ACTIVITIES:END -->
