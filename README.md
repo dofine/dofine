@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 #### @ 豆瓣
 <!-- DOUBAN-ACTIVITIES:START -->
+- [加入 查理兹·塞隆](https://www.douban.com/doubanapp/dispatch?uri=/status/3104608591/)
+- [想看 无依之地 Nomadland‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3104603749/)
 - [想看 剑指高分 High Score‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3096537527/)
 - [收藏 信条全剧透解析](https://www.douban.com/doubanapp/dispatch?uri=/status/3095501291/)
 - [看过 信条 Tenet‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3095492779/)
@@ -25,6 +27,4 @@ Here are some ideas to get you started:
 - [玩过 死亡细胞 Dead Cells](https://www.douban.com/doubanapp/dispatch?uri=/status/3094250231/)
 - [玩过 集合啦！动物森友会 あつまれ どうぶつの森](https://www.douban.com/doubanapp/dispatch?uri=/status/3094249788/)
 - [在玩 世界游戏大全51 世界のアソビ大全51](https://www.douban.com/doubanapp/dispatch?uri=/status/3094249476/)
-- [想看 信条 Tenet‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3094122395/)
-- [在看 灵笼‎ (2019)](https://www.douban.com/doubanapp/dispatch?uri=/status/3091780391/)
 <!-- DOUBAN-ACTIVITIES:END -->
