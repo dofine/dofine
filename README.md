@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 #### @ 豆瓣
 <!-- DOUBAN-ACTIVITIES:START -->
+- [想玩 哈迪斯 Hades](https://www.douban.com/doubanapp/dispatch?uri=/status/3119716068/)
 - [加入 查理兹·塞隆](https://www.douban.com/doubanapp/dispatch?uri=/status/3104608591/)
 - [想看 无依之地 Nomadland‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3104603749/)
 - [想看 剑指高分 High Score‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3096537527/)
@@ -26,5 +27,4 @@ Here are some ideas to get you started:
 - [玩过 空洞骑士 Hollow Knight](https://www.douban.com/doubanapp/dispatch?uri=/status/3094250518/)
 - [玩过 死亡细胞 Dead Cells](https://www.douban.com/doubanapp/dispatch?uri=/status/3094250231/)
 - [玩过 集合啦！动物森友会 あつまれ どうぶつの森](https://www.douban.com/doubanapp/dispatch?uri=/status/3094249788/)
-- [在玩 世界游戏大全51 世界のアソビ大全51](https://www.douban.com/doubanapp/dispatch?uri=/status/3094249476/)
 <!-- DOUBAN-ACTIVITIES:END -->
