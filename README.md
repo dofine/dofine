@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 #### @ 豆瓣
 <!-- DOUBAN-ACTIVITIES:START -->
+- [想看 数码宝贝：最后的进化 デジモンアドベンチャー LAST EVOLUTION 絆‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3155154023/)
 - [想玩 哈迪斯 Hades](https://www.douban.com/doubanapp/dispatch?uri=/status/3119716068/)
 - [加入 查理兹·塞隆](https://www.douban.com/doubanapp/dispatch?uri=/status/3104608591/)
 - [想看 无依之地 Nomadland‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3104603749/)
@@ -26,5 +27,4 @@ Here are some ideas to get you started:
 - [想玩 空洞骑士：丝之歌 Hollow Knight: Silksong](https://www.douban.com/doubanapp/dispatch?uri=/status/3094250573/)
 - [玩过 空洞骑士 Hollow Knight](https://www.douban.com/doubanapp/dispatch?uri=/status/3094250518/)
 - [玩过 死亡细胞 Dead Cells](https://www.douban.com/doubanapp/dispatch?uri=/status/3094250231/)
-- [玩过 集合啦！动物森友会 あつまれ どうぶつの森](https://www.douban.com/doubanapp/dispatch?uri=/status/3094249788/)
 <!-- DOUBAN-ACTIVITIES:END -->
