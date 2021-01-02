@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 
 #### @ 豆瓣
 <!-- DOUBAN-ACTIVITIES:START -->
+- [看过 八佰‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3237877414/)
 - [想看 数码宝贝：最后的进化 デジモンアドベンチャー LAST EVOLUTION 絆‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3155154023/)
 - [想玩 哈迪斯 Hades](https://www.douban.com/doubanapp/dispatch?uri=/status/3119716068/)
 - [加入 查理兹·塞隆](https://www.douban.com/doubanapp/dispatch?uri=/status/3104608591/)
@@ -22,7 +23,6 @@ Here are some ideas to get you started:
 - [看过 信条 Tenet‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3095492779/)
 - [想玩 空洞骑士：丝之歌 Hollow Knight: Silksong](https://www.douban.com/doubanapp/dispatch?uri=/status/3094250573/)
 - [玩过 空洞骑士 Hollow Knight](https://www.douban.com/doubanapp/dispatch?uri=/status/3094250518/)
-- [玩过 死亡细胞 Dead Cells](https://www.douban.com/doubanapp/dispatch?uri=/status/3094250231/)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 #### @ Steam
