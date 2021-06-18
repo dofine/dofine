@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 
 #### @ 豆瓣
 <!-- DOUBAN-ACTIVITIES:START -->
+- [在看 机智医生生活 第二季 슬기로운 의사생활 시즌2‎ (2021)](https://www.douban.com/people/4612366/status/3480766334/)
 - [看过 八佰‎ (2020)](https://www.douban.com/people/4612366/status/3237877414/)
 - [想看 数码宝贝：最后的进化 デジモンアドベンチャー LAST EVOLUTION 絆‎ (2020)](https://www.douban.com/people/4612366/status/3155154023/)
 - [想玩 哈迪斯 Hades](https://www.douban.com/people/4612366/status/3119716068/)
@@ -22,7 +23,6 @@ Here are some ideas to get you started:
 - [收藏 信条全剧透解析](https://www.douban.com/people/4612366/status/3095501291/)
 - [看过 信条 Tenet‎ (2020)](https://www.douban.com/people/4612366/status/3095492779/)
 - [想玩 空洞骑士：丝之歌 Hollow Knight: Silksong](https://www.douban.com/people/4612366/status/3094250573/)
-- [玩过 空洞骑士 Hollow Knight](https://www.douban.com/people/4612366/status/3094250518/)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 #### @ Steam
