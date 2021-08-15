@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - [看过 八佰‎ (2020)](https://www.douban.com/people/4612366/status/3237877414/)
 - [想看 数码宝贝：最后的进化 デジモンアドベンチャー LAST EVOLUTION 絆‎ (2020)](https://www.douban.com/people/4612366/status/3155154023/)
 - [想玩 哈迪斯 Hades](https://www.douban.com/people/4612366/status/3119716068/)
-- [加入 查理兹·塞隆](https://www.douban.com/people/4612366/status/3104608591/)
 - [想看 无依之地 Nomadland‎ (2020)](https://www.douban.com/people/4612366/status/3104603749/)
 - [想看 剑指高分 High Score‎ (2020)](https://www.douban.com/people/4612366/status/3096537527/)
 - [收藏 信条全剧透解析](https://www.douban.com/people/4612366/status/3095501291/)
