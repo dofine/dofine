@@ -33,13 +33,12 @@ def get_user_battle(screen_name, api_key, **kwargs):
 
 def write_readme(fp, lines_to_write):
     with open(fp, "r") as f:
-        lines = f.readlines()
+        lines = f.read().split("\n")
     for ix in range(len(lines)):
         if lines[ix] == "<!-- SPLATOON-STAT:START -->":
-            for _, line in enumerate(lines_to_write):
-                lines.insert(ix, line)
+            lines.insert(ix + 1, lines_to_write)
     with open(fp, "w") as f:
-        f.writelines(lines)
+        f.write("\n".join(lines))
     return True
 
 
@@ -60,5 +59,4 @@ if __name__ == "__main__":
             ]
         ]
     )
-    lines = lines.split("\n")
     write_readme(file_path, lines)
