@@ -25,6 +25,7 @@ def get_user_battle(screen_name, api_key, **kwargs):
         },
         params=kwargs,
     ).json()
+    print(r)
 
     return r
 
