@@ -21,7 +21,7 @@ jobs:
       - name: install requests
         run: pip install requests
       - name: run scripts
-        run: python scripts/splat.ink.py
+        run: python scripts/splat_ink.py
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:
