@@ -1,3 +1,5 @@
+import sys
+
 import requests
 import os
 
@@ -42,10 +44,10 @@ def write_readme(fp, lines_to_write):
 
 
 if __name__ == "__main__":
-    file_path = os.getenv("INPUT_README_PATH")
-    j = get_user_battle(
-        os.getenv("SCREEN_NAME"), os.getenv("STAT_API_KEY"), order="desc",
-    )
+    file_path = "./README.md"
+    screen_name = sys.argv[1]
+    api_key = sys.argv[2]
+    j = get_user_battle(screen_name, api_key, order="desc",)
 
     lines = "\t".join(
         [
