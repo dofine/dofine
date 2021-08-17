@@ -36,3 +36,8 @@ Here are some ideas to get you started:
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
+
+#### @ Nintendo
+##### Splatoon 2 stat
+<! -- SPLATOON-STAT:START -->
+<! -- SPLATOON-STAT:END -->
