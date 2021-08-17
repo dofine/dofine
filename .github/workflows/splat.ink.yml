@@ -1,0 +1,31 @@
+name: Update splatoon2 stat
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
+  schedule:
+    - cron: "10 * * * *"
+
+jobs:
+  build:
+    name: Update-splatoon2-stat
+    runs-on: ubuntu-latest
+    env:
+#       GH_TOKEN: ${{ secrets.GH_TOKEN }}
+#       GIST_ID: f9d24328c5cf728a30e8451737ff5883
+#       STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
+#       STEAM_ID: ${{ secrets.STEAM_ID }}
+#       UPDATE_OPTION: GIST_AND_MARKDOWN
+#       MARKDOWN_FILE: README.md
+
+      steps:
+        - uses: actions/checkout@v2
+        - uses: actions/setup-python@v2
+          with:
+            python-version: '3.x' # Version range or exact version of a Python version to use, using SemVer's version range syntax
+            architecture: 'x64' # optional x64 or x86. Defaults to x64 if not specified
+        - run: python my_script.py
+
+
