@@ -21,7 +21,7 @@ jobs:
       - name: install requests
         run: pip install requests
       - name: run scripts
-        run: python scripts/splat_ink.py
+        run: python scripts/splat_ink.py dofine  ${{ secrets.STAT_API_KEY }} 
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:
