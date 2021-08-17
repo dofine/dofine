@@ -40,4 +40,5 @@ Here are some ideas to get you started:
 #### @ Nintendo
 ##### Splatoon 2 stat
 <!-- SPLATOON-STAT:START -->
+7	2	11	4
 <!-- SPLATOON-STAT:END -->
