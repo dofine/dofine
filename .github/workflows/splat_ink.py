@@ -20,7 +20,8 @@ jobs:
           architecture: 'x64' # optional x64 or x86. Defaults to x64 if not specified
       - name: install requests
         run: pip install requests
-      - run: python scripts/splat.ink.py
+      - name: run scripts
+        run: python scripts/splat.ink.py
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:
