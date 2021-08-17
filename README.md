@@ -39,5 +39,5 @@ Here are some ideas to get you started:
 
 #### @ Nintendo
 ##### Splatoon 2 stat
-<! -- SPLATOON-STAT:START -->
-<! -- SPLATOON-STAT:END -->
+<!-- SPLATOON-STAT:START -->
+<!-- SPLATOON-STAT:END -->
