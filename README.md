@@ -41,5 +41,6 @@ Here are some ideas to get you started:
 ##### Splatoon 2 stat
 <!-- SPLATOON-STAT:START -->
 2	3	6	4
+2	3	6	4
 7	2	11	4
 <!-- SPLATOON-STAT:END -->
