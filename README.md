@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/f9d24328c5cf728a30e8451737ff5883" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-⚔️ Dota 2                           🕘 1326 hrs 43 mins
+⚔️ Dota 2                           🕘 1327 hrs 18 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 291 hrs 36 mins
-🎮 Dota Underlords                  🕘 180 hrs 38 mins
+🎮 Dota Underlords                  🕘 181 hrs 12 mins
 🎮 Sekiro™: Shadows Die Twice       🕘 61 hrs 26 mins
 🎮 The Witcher 3: Wild Hunt         🕘 9 hrs 55 mins
 ```
