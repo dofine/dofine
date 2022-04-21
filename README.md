@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ```text
 ⚔️ Dota 2                           🕘 1334 hrs 28 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 291 hrs 36 mins
-🎮 Dota Underlords                  🕘 183 hrs 27 mins
+🎮 Dota Underlords                  🕘 184 hrs 0 mins
 🎮 Sekiro™: Shadows Die Twice       🕘 61 hrs 26 mins
 🎮 The Witcher 3: Wild Hunt         🕘 9 hrs 55 mins
 ```
